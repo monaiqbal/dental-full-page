@@ -1,0 +1,385 @@
+
+
+@media (min-width: 769px) and (max-width: 992px){
+    .care h2{
+        font-size: 24px;
+        width: 75%;
+    }
+    .care h1{
+        font-size: 26px;
+        width:90%;
+    }
+    .head i {
+        font-size: 24px;
+        padding-top: 5px;
+        padding-right: 5px;
+    }
+    .text p {
+     
+        font-size: 14px;
+    
+    }
+    .content {
+        width: 96%;
+    }
+    .image {
+        bottom: 12%;
+    }
+    .teeth-two {
+        padding: 7px 9px;
+    }
+  
+    .banner-image {
+    
+        bottom: 20%;
+    }
+    .teeth-two h3 {
+        font-size: 18px;
+    }
+    .teeth-two p{
+        font-size: 14px;
+    }
+    
+
+.heading-one p{
+    margin: 0%;
+}
+.heading-two p{
+    margin: 0%;
+}
+.foot-two h3 {
+    
+    font-size: 27px;
+   
+    padding-bottom: 13px;
+}
+.foot-three h3 {
+    
+    font-size: 26px;
+    padding-bottom: 16px;
+}
+.list {
+    width: 41px;
+    padding: 0px;
+    margin-bottom: 10px;
+    margin-right: 7px;
+    height: 41px;
+    line-height: 41px;
+}
+.pricing-table {
+
+    width: 95%;
+
+}
+.image-foot {
+    width: 77%;
+    padding-top: 21px;
+    padding-right: 5px;
+}
+.foot-font i {
+    font-size: 17px;
+    padding-right: 8px;
+}
+.foot-font {
+   
+    padding-right: 0px;
+}
+.foot-one {
+    margin: 3px -10px;
+}
+.slot-one h1 {
+    font-size: 30px;
+}
+.slot-two h2 {
+    font-size: 32px;
+}
+
+}
+
+
+
+
+
+@media (min-width: 0px) and (max-width: 991px){
+    .partisan{
+        display: inherit;
+    }
+    .divison{
+        display: none;
+    }
+    .logo{
+        width: 44%;
+
+     margin: auto;
+    
+      margin-bottom: 20px;
+    }
+    .accordion{
+        margin: auto;
+width: 40%;
+    }
+    .accordion-button i{
+        font-size: 24px;
+    padding-top: 10px;
+padding-right: 10px;
+    color:#f69165;
+    }
+   .navbar-nav{
+       text-align: center;
+   }
+   .parallelogram {
+    width: 100%;
+    transform: none;
+    margin: 0%;
+   
+    
+   }
+   .parallelogram i{
+    transform: none;
+    padding-right: 5px;
+   }
+   .parallelogram p{
+    transform: none;
+   }
+}
+
+
+@media (min-width: 577px) and (max-width: 768px){
+    .banner-image{
+        width: 37%;
+            }
+            .image {
+       
+                display: none;
+            }
+            .heading-one p {
+                margin: 0%;
+            }
+            .heading-two p {
+                margin: 0%;
+            }
+            .foot-font {
+              
+                padding-right: 198px;
+            }
+            .post-one {
+                
+                width: 76%;
+            }
+            .doctor {
+                margin-bottom: 20px;
+           }
+           .content{
+               margin-bottom: 20px;
+           }
+           .pricing-table {
+     
+              
+            margin-bottom: 20px;
+        }
+}
+@media (min-width: 601px) and (max-width: 999px){
+    .four{
+        display: none;
+    }
+    .five{
+        display: none;
+    }
+}
+
+
+
+@media (min-width: 0px) and (max-width: 600px) { 
+ 
+   .two{
+       display: none;
+   }
+    .three{
+        display: none;
+
+    }
+    .four{
+        display: none;
+    }
+    .five{
+        display: none;
+    }
+    .pricing-table {
+       
+        margin-bottom: 20px;
+    }
+    .content{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+ }
+ @media (min-width: 422px) and (max-width: 576px){
+    .client-one{
+        margin: 0 80px;
+    }
+       .care h2{
+        font-size: 24px;
+    }
+    .care h1{
+     font-size: 26px;
+         }
+         .care p{
+             font-size: 16px;
+         }
+         .parallelogram {
+     
+            padding: 0px 180px;
+            
+           }
+           .banner-image{
+            display: none;
+                }
+                .image {
+           
+                    display: none;
+                }
+                .teeth-one h1 {
+                    
+                    text-align: center;
+                }
+                .teeth-one p {
+                    
+                    text-align: center;
+                }
+                .teeth-two {
+                   
+                   margin-bottom: 20px;
+                    text-align: center;
+                }
+                .heading-one h1 {
+                    font-size: 34px;
+                
+                }
+                .heading-one p {
+                    margin: 0%;
+                }
+                .heading-two h1 {
+                    font-size: 34px;
+                
+                }
+                .heading-two p {
+                    margin: 0%;
+                }
+                .doctor {
+                     margin-bottom: 20px;
+                }
+               
+                .content-one h1 {
+                    font-size: 34px;
+                  
+                }
+                .pricing-table {
+                    
+                    width: 80%;
+                    margin: auto;
+                      
+                    margin-bottom: 20px;
+                }
+                .content-one {
+                  
+                    padding: 5px 41px;
+                }
+ }
+
+ @media (min-width: 321px) and (max-width: 420px){
+    .parallelogram {
+     
+        padding: 0px 70px;
+        
+       }
+       .client-one{
+        margin: 0 40px;
+    }
+ }
+
+ @media (min-width: 0px) and (max-width: 421px){
+    .accordion{
+        margin: auto;
+        width: 74%;
+   }
+   .care h2{
+       font-size: 20px;
+   }
+   .care h1{
+    font-size: 22px;
+        }
+        .care p{
+            font-size: 14px;
+        }
+
+
+        .banner-image{
+    display: none;
+        }
+        .btn-learn {
+            
+            font-size: 14px;
+            padding: 8px 10px;
+           
+        }
+        .btn-book {
+            
+            font-size: 14px;
+            padding: 8px 10px;
+           
+        }
+        .image {
+           
+            display: none;
+        }
+        .teeth-one h1 {
+            
+            text-align: center;
+        }
+        .teeth-one p {
+            
+            text-align: center;
+        }
+        .teeth-two {
+           
+           margin-bottom: 20px;
+            text-align: center;
+        }
+        .teeth-two h3 {
+            font-size: 20px;
+          
+        }
+        .teeth-two p{
+            font-size: 14px;
+            
+        }
+        .heading-one h1 {
+            font-size: 34px;
+        
+        }
+        .heading-one p {
+            margin: 0%;
+        }
+        .heading-two h1 {
+            font-size: 34px;
+        
+        }
+        .heading-two p {
+            margin: 0%;
+        }
+        .doctor {
+             margin-bottom: 20px;
+        }
+       
+      
+}
+@media (min-width: 0px) and (max-width: 320px){
+    .parallelogram {
+     
+        padding: 0px 70px;
+        
+       }
+       .client-one{
+        margin: 0 20px;
+    }
+}
